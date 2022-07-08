@@ -1,0 +1,23 @@
+{
+  "name": "ch.10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acattet/10.-Object-Oriented-Programming-Challenge-Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acattet/10.-Object-Oriented-Programming-Challenge-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/acattet/10.-Object-Oriented-Programming-Challenge-Team-Profile-Generator#readme"
+}
