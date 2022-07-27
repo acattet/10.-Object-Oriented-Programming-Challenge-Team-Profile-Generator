@@ -15,7 +15,8 @@
  ## [Usage](#table-of-contents)
   
   Simply type "node index" into the terminal and the program will start and allow you to answer the prompts with your team memebers' information. Once you end the program, the HTML file should update and you can then open it's webpage to see your team. 
-  
+ 
+
   
   
   
@@ -26,8 +27,9 @@
 
 
  
-
-
+links open in new tab!
+</br>
+ ![Untitled_ Jul 27, 2022 10_06 AM](https://user-images.githubusercontent.com/98857382/181268108-d46b9892-2baf-4f6a-90bd-8064a2e31be7.gif)
   
   
 
