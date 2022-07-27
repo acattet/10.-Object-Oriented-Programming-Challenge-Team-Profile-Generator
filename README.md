@@ -22,6 +22,8 @@
   https://youtu.be/kfp_T1JWdFY
   
   <img width="1065" alt="Screen Shot 2022-07-27 at 10 02 14 AM" src="https://user-images.githubusercontent.com/98857382/181266744-e6e05bcc-1a97-45ef-9127-18e0e29d2802.png">
+  <img width="1433" alt="Screen Shot 2022-07-27 at 10 03 26 AM" src="https://user-images.githubusercontent.com/98857382/181267038-64903409-f8f0-41f3-8c4b-5f5594c4ef4d.png">
+
 
  
 
