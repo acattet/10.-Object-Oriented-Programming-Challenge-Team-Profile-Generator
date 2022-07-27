@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/acattet/10.-Object-Oriented-Programming-Challenge-Team-Profile-Generator/issues"
   },
-  "homepage": "https://github.com/acattet/10.-Object-Oriented-Programming-Challenge-Team-Profile-Generator#readme"
+  "homepage": "https://github.com/acattet/10.-Object-Oriented-Programming-Challenge-Team-Profile-Generator#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
